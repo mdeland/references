@@ -5,3 +5,4 @@
 - [python libraries](python.md)
 - [haskell](haskell.md)
 - [bayesian](bayesian.md)
+- [statistics](statistics.md)
